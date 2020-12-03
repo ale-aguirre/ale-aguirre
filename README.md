@@ -6,7 +6,7 @@
 [![Linkedin: alexis-aguirre-cordoba](https://img.shields.io/badge/-Alexis%20Aguirre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexis-aguirre-cordoba/)](https://www.linkedin.com/in/alexis-aguirre-cordoba/)
 [![GitHub: @ale-aguirre](https://img.shields.io/github/followers/Alexis?label=follow&style=social)](https://github.com/ale-aguirre)
 
-[![Gmail: Alexis](https://img.shields.io/badge/Gmail-availchet-red)](mailto:aguirrealexis.cba@gmail.com)
+[![Gmail: Alexis](https://img.shields.io/badge/Gmail-Alexis-red)](mailto:aguirrealexis.cba@gmail.com)
 
 I am a Full stack developer from :house: Córdoba, Argentina.
 
