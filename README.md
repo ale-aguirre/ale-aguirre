@@ -27,5 +27,5 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 - **Mobile**: React Native
 - **UI Frameworks**: Material-UI, Bootstrap
 - **Web technologies**: HTML5, CSS3, ES7+
-- **Databases**: MongoDB (Mongoose), MySQL, PostgreSQL, Gremlin
+- **Databases**: MongoDB (Mongoose), MySQL, PostgreSQL
 - **Languages**: JavaScript
