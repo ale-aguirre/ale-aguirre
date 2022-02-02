@@ -49,5 +49,6 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 - **Databases**: MongoDB (Mongoose), MySQL, PostgreSQL
 - **Languages**: JavaScript
 
-
+### Connect with me:
+[linkedin]: https://www.linkedin.com/in/alexisaguirre-fullstack/
 <br />
