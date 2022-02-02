@@ -54,7 +54,3 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 
 
 <br />
-
-
-### Connect with me:
-[linkedin]: https://www.linkedin.com/in/alexisaguirre-fullstack/
