@@ -51,5 +51,5 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 
 ### Connect with me:
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-https://www.linkedin.com/in/alexisaguirre-fullstack/
+https://www.linkedin.com/in/alexisaguirre-reactdev/
 <br />
