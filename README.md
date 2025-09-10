@@ -1,54 +1,43 @@
-# Hi, I'm [Alexis](https://github.com/ale-aguirre)! 👋
+# Hola, soy Alexis Aguirre 👋
 
->  💻 Full-stack Software Developer | React + Node
+> Frontend Developer — **React** / **Next.js** / **TypeScript**
 
-[![Linkedin: alexis-aguirre-cordoba](https://img.shields.io/badge/-Alexis%20Aguirre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexis-aguirre-cordoba/)](https://www.linkedin.com/in/alexis-aguirre-cordoba/)
-[![GitHub: @ale-aguirre](https://img.shields.io/github/followers/Alexis?label=follow&style=social)](https://github.com/ale-aguirre)
+[![LinkedIn: alexisaguirre-reactdev](https://img.shields.io/badge/LinkedIn-Alexis%20Aguirre-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexisaguirre-reactdev/)
+[![GitHub followers](https://img.shields.io/github/followers/ale-aguirre?style=social)](https://github.com/ale-aguirre)
+[![Email](https://img.shields.io/badge/Email-aguirrealexis.cba%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:aguirrealexis.cba@gmail.com)
+![Location](https://img.shields.io/badge/C%C3%B3rdoba-Argentina-121212)
 
-[![Gmail: Alexis](https://img.shields.io/badge/Gmail-Alexis-red)](mailto:aguirrealexis.cba@gmail.com)
-
-I am a Full stack developer from :house: Córdoba, Argentina.
-
-My passion lies in solving challenging problems, designing algorithms, and communicating complex ideas to non-technical stakeholders.
-I always look to exceed expectations and am effective both working as an individual and as part of a team.
-
-In my spare time, I like to travel :walking:, read :books:, listen to music :headphones: and watch movies :tv:.
-
-I enjoy learning new things and connecting with people across a range of industries. 
-If you ever want to bounce ideas off of me, please feel free to reach out. 😄
-
-## ⚡ Stats
-![Alexis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ale-aguirre&hide=["issues"]&show_icons=true)
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
+Soy dev frontend (4+ años) enfocado en **productos simples, rápidos y escalables**. Trabajo sobre **Next.js** y **React** con buenas prácticas, DX cuidada y foco en UI/UX.
 
 ---
 
-##  🎉 Skills  🎉
-- **FrontEnd**: React, Redux, Webpack
-- **BackEnd**: Node.js, Express
-- **Mobile**: React Native
-- **UI Frameworks**: Material-UI, Bootstrap
-- **Web technologies**: HTML5, CSS3, ES7+
-- **Databases**: MongoDB (Mongoose), MySQL, PostgreSQL
-- **Languages**: JavaScript
+## 🧰 Stack
+- **Frontend:** React, Next.js (App Router), TypeScript, Zustand/Redux, React Query
+- **UI:** Tailwind CSS, Framer Motion, shadcn/ui
+- **Build/Tooling:** Vite, Webpack, ESLint, Prettier, Husky, lint-staged
+- **Backend básico:** Node.js, Express, REST
+- **DB & otros:** PostgreSQL/MySQL, MongoDB, Prisma, JWT, Zod
+- **DevOps:** Vercel, Docker básico, CI/CD (GitHub Actions)
+- **Automations:** n8n
 
-### Connect with me:
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-https://www.linkedin.com/in/alexisaguirre-reactdev/
-<br />
+---
+
+## 🚀 Lo que hago
+- **Landing/Apps** en Next.js con **SSR/ISR** y performance (Core Web Vitals).
+- **Design Systems** y componentes reutilizables con Tailwind + Radix/shadcn.
+- Integraciones comunes: **Auth**, **pagos**, **email**, **analytics**.
+- **DX**: scripts, linters, pre-commits, convenciones y documentación mínima.
+
+---
+
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ale-aguirre&show_icons=true&hide=issues&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ale-aguirre&layout=compact)
+
+---
+
+## 📫 Contacto
+- LinkedIn: **[@alexisaguirre-reactdev](https://www.linkedin.com/in/alexisaguirre-reactdev/)**
+- Email: **aguirrealexis.cba@gmail.com**
+
+> ¿Buscás a alguien para levantar un MVP, pulir una UI o migrar a Next.js? Hablemos.
