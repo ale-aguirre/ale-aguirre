@@ -1,20 +1,21 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E07A3F&center=true&vCenter=true&width=600&lines=Frontend+Engineer;AI+Agents+%26+Browser+Games;Next.js+%C2%B7+TypeScript+%C2%B7+Claude+API;Open+to+remote+work)](https://portfolio-aguirre-alexis.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=1200&color=00D9FF&center=true&vCenter=true&width=520&lines=Frontend+Engineer+%2F+AI+Builder;Next.js+%C2%B7+TypeScript+%C2%B7+Claude+API;Building+autonomous+agents+%26+SaaS;C%C3%B3rdoba%2C+Argentina+%C2%B7+Remote-first)](https://portfolio-aguirre-alexis.vercel.app)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--aguirre--alexis.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-aguirre-alexis.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexisaguirre-reactdev)
-[![Email](https://img.shields.io/badge/Email-Hire%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aguirrealexis.cba@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--aguirre--alexis.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-aguirre-alexis.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexisaguirre-reactdev)
+[![Email](https://img.shields.io/badge/Hire%20me-aguirrealexis.cba%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aguirrealexis.cba@gmail.com)
 
 </div>
 
 ---
 
-4+ years shipping production apps at the intersection of **frontend**, **AI integration**, and **product engineering**. I build things that work — real-time multiplayer games, LLM-powered SaaS, and automation pipelines.
+Frontend engineer based in **Córdoba, Argentina** building AI agents, SaaS platforms and browser experiences.
+5+ years shipping TypeScript apps · 6 AI projects in production · 3 autonomous agents running.
 
-Based in **Córdoba, Argentina** · Available for **remote** roles.
+Available for **full-time remote roles** · [Let's talk →](mailto:aguirrealexis.cba@gmail.com)
 
 ---
 
@@ -24,20 +25,18 @@ Based in **Córdoba, Argentina** · Available for **remote** roles.
 <tr>
 <td width="50%">
 
-### [Forgix](https://forgix.xyz)
-Real-time multiplayer browser game where players deploy AI agents to compete against each other.
+**[Forgix](https://forgix.xyz)** — Real-time browser game where players deploy AI agents to compete against each other.
 
-`Next.js 14` `Supabase` `Claude API` `Stripe` `Three.js`
+`Next.js 14` `Three.js` `Claude API` `Supabase` `Stripe`
 
 ~19k lines · Live in production
 
 </td>
 <td width="50%">
 
-### [Skuscribe](https://skuscribe.com)
-SaaS that generates optimized product listings for Amazon/Etsy sellers using automated LLM pipelines.
+**[SKUscribe](https://skuscribe.com)** — LLM pipeline that generates optimized Amazon/Etsy product listings at scale.
 
-`Next.js` `OpenAI` `Stripe` `Supabase`
+`Next.js` `OpenAI` `Supabase` `Stripe`
 
 Production · Subscription model
 
@@ -46,18 +45,16 @@ Production · Subscription model
 <tr>
 <td width="50%">
 
-### [Calibre Studio](https://thecalibre.studio)
-High-end editorial landing page with internationalization and refined design system.
+**[Dev Dashboard + CORTEX](https://github.com/ale-aguirre/dev-dashboard)** — Personal ops dashboard with an AI agent routing system: 44 domains, 20 agents, autonomous task execution.
 
-`Next.js` `Framer Motion` `i18n` `Tailwind`
+`Next.js 16` `SQLite` `Claude API` `Groq` `Vercel`
 
 </td>
 <td width="50%">
 
-### [Saku Store](https://saku-store.vercel.app)
-Full e-commerce: auth, cart, orders, inventory management and barcode scanning.
+**[Job Hunter](https://github.com/ale-aguirre/job-hunter)** — Autonomous agent that scouts remote job listings and submits applications via Chrome CDP + LLM.
 
-`Next.js 15` `Supabase` `PostgreSQL`
+`Node.js` `Playwright` `Claude API` `Chrome CDP`
 
 </td>
 </tr>
@@ -74,7 +71,7 @@ Full e-commerce: auth, cart, orders, inventory management and barcode scanning.
 </div>
 
 ```
-AI / Agents   →  Claude API · OpenAI · Groq · LanceDB · Playwright
+AI / Agents   →  Claude API · Groq · LanceDB · Playwright · Chrome CDP
 Frontend      →  Next.js · React · TypeScript · Framer Motion · Three.js
 Backend       →  Node.js · Supabase · PostgreSQL · Prisma · REST APIs
 Payments      →  Stripe (subscriptions · one-time · webhooks)
@@ -83,11 +80,15 @@ Deploy        →  Vercel · GitHub Actions
 
 ---
 
-## GitHub
+## Activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ale-aguirre&theme=dark&hide_border=true&background=0D1117&ring=E07A3F&fire=E07A3F&currStreakLabel=E07A3F)](https://github.com/ale-aguirre)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ale-aguirre/ale-aguirre/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ale-aguirre/ale-aguirre/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ale-aguirre/ale-aguirre/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -95,7 +96,7 @@ Deploy        →  Vercel · GitHub Actions
 
 <div align="center">
 
-*Open to full-time remote roles and interesting freelance projects.*
+*Open to full-time remote roles and freelance projects.*
 **[Let's talk →](mailto:aguirrealexis.cba@gmail.com)**
 
 </div>
