@@ -16,7 +16,7 @@ I build products where the backend is an LLM: multi-agent systems, retrieval pip
 browser automation and the evaluation harnesses that tell you whether any of it actually works.
 
 5+ years shipping production TypeScript. Currently building at
-[Contenidos Digitales](https://contenidosdigitales.com) and running my own systems in production.
+[Metros2 Digital](https://metros2digital.com) and running my own systems in production.
 
 **Open to full-time remote roles.** [Let's talk →](mailto:aguirrealexis.cba@gmail.com)
 
