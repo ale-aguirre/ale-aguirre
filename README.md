@@ -34,6 +34,14 @@ zero-hallucination guardrail, and submits the application through the ATS.
 
 `Node.js` `Playwright` `Claude API` `Groq` `SQLite`
 
+**[intent-gate](https://github.com/ale-aguirre/intent-gate)** — a small library for the
+part of an agent that must not be improvised: an LLM classifies a message into one of a
+known set of domains, and everything downstream comes from configuration the model never
+sees. It cannot name a handler that does not exist, and it cannot waive a human approval.
+Extracted from Cortex. 25 tests, no network, CI on Node 20 and 22.
+
+`TypeScript` `zero dependencies` `Vitest`
+
 **[Forgix](https://forgix.xyz)** — real-time multiplayer browser game with PvP combat, permadeath and
 an in-game economy. Claude API drives chip generation and narrative; Supabase RLS enforces per-user
 isolation. ~27k lines of TypeScript, live in production.
